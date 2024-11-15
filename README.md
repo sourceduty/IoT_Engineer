@@ -1,4 +1,4 @@
-![IoT Science](https://github.com/user-attachments/assets/e6fd0b2a-9243-4d4e-ba01-b8a552a1b737)
+![IoT Science](https://github.com/user-attachments/assets/c3fe0fed-ad7b-4124-a331-f7e86c380e74)
 
 > Assistive IoT engineering specialist.
 #
